@@ -10,7 +10,7 @@ public class Hello {
 
     public static void callSign() {
         
-        System.out.print("Lock S-foils in attack position"); 
+        System.out.print("Lock S-foils in attack position."); 
         System.out.print("Stabilize your rear deflectors... Watch for enemy fighters.")
 
     }
